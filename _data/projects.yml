@@ -7,8 +7,8 @@
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   description: Podcasts montage
 - name: Third Project
-  link:
-  image: https://www.youtube.com/watch?v=KmrflbdUDSw&t=5s
+  link: https://www.youtube.com/watch?v=KmrflbdUDSw&t=5s
+  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: Thumnbnails
 - name: Fourth Project
   link: https://www.youtube.com/watch?v=hmZcg4rcTw8&t=3s&ab_channel=ARTBYNULISVIDEOSTUDIO
